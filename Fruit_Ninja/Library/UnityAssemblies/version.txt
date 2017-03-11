@@ -1,0 +1,11 @@
+5.5.1f1:2.8.2.0
+StandaloneWindows
+I:/CAP6121/Editor/Data/Managed/UnityEngine.dll
+I:/CAP6121/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+I:/CAP6121/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+I:/CAP6121/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll
+I:/CAP6121/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+I:/CAP6121/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+I:/CAP6121/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+I:/CAP6121/Editor/Data/Managed/UnityEditor.dll
+I:/CAP6121/Editor/Data/Managed/Mono.Cecil.dll
